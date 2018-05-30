@@ -1,0 +1,6 @@
+c:\users\mary\documents\visual studio 2017\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+c:\users\mary\documents\visual studio 2017\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+c:\users\mary\documents\visual studio 2017\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+c:\users\mary\documents\visual studio 2017\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
+c:\users\mary\documents\visual studio 2017\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+c:\users\mary\documents\visual studio 2017\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
